@@ -1,0 +1,5 @@
+data/00/00/00/00/00.bin	f5856d62
+data/00/00/00/00/01.bin	400bd778
+data/00/00/00/00/02.bin	dcffd759
+data/00/00/00/00/03.bin	6da5980c
+data/00/00/00/00/04.bin	aee4d0cd
